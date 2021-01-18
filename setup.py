@@ -59,7 +59,7 @@ setup(
                  'Programming Language :: Python :: 3.4'],
     packages=['expandas'],
     python_requires='>=3.5',
-    install_requires=get_requirements('requirements/dev.txt'),
+    install_requires=get_requirements('requirements/install.txt'),
     # extras_require={
     #     'gpu': get_requirements('requirements/gpu.txt'),
     #     'visualization': get_requirements('requirements/visualization.txt'),
