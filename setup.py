@@ -38,7 +38,7 @@ def get_requirements(*files):
 
 
 setup(
-    name='exPandas',
+    name='expandas',
     version=version,
     description='Experiments with pandas',
     long_description='exPandas',
